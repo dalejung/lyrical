@@ -1,0 +1,15 @@
+{
+  "name": "lyrical",
+  "version": "0.0.1",
+  "description": "wip port of lyrical",
+  "main": "./lib/lyrical.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dale Jung <dale@dalejung.com> (http://dalejung.com)",
+  "bugs": {
+    "url": "https://github.com/dalejung/lyrical/issues"
+  },
+  "homepage": "https://github.com/dalejung/lyrical",
+  "license": "ISC"
+}
